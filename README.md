@@ -1,7 +1,7 @@
 # The flying spider-monkey tree fern genome provides insights into fern evolution and arborescence  
 # [kaggle](https://www.kaggle.com/datasets/linzey/the-flying-spidermonkey-tree-fern-genome)  
 Huang, X. et al. The flying spider-monkey tree fern genome provides insights into fern evolution and arborescence. Nat Plants, doi:10.1038/s41477-022-01146-6 (2022).  
-
+# [thesis](https://www.nature.com/articles/s41477-022-01146-6)  
 
 
 
